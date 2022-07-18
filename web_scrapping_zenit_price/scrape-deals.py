@@ -1,6 +1,3 @@
-#https://www.youtube.com/watch?v=1KHIFs8v7jY
-#https://www.youtube.com/watch?v=QNLBBGWEQ3Q
-
 #<meta property="og:price:amount" content="320.00">
 
 

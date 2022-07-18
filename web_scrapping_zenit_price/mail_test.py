@@ -10,10 +10,7 @@ connection.sendmail(from_addr = my_email, to_addrs = "santexD@seznam.cz", msg = 
 
 connection.close()
 
-"""
-total = 0
-total = total + get_price("...")
-total = total + get_price("...")
+
 
 try:
     smtpObj = smtplib.SMTP("localhost")

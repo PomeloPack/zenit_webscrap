@@ -26,8 +26,7 @@ except SMTPException:
 
 
 
-#https://stackoverflow.com/questions/17759860/python-2-smtpserverdisconnected-connection-unexpectedly-closed
-#https://bobcares.com/blog/smtp-authentication-error-534/
+
 
 
 

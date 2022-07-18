@@ -11,7 +11,7 @@ connection.sendmail(from_addr = my_email, to_addrs = "santexD@seznam.cz", msg = 
 connection.close()
 
 
-
+"""
 try:
     smtpObj = smtplib.SMTP("localhost")
     smtpObj.sendmail(sender, receivers, message)
